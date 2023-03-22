@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mashablair
 - 👀 I’m interested in full-stack web development.  I love JavaScript, Angular, CSS, VSCode, GitHub, React, NodeJS and .NET products.  
-- 🌱 I’m currently learning AngularJS.  
+- 🌱 I’m currently learning Angular, Node and databases.  
 - 💞️ I’m looking to collaborate with everybody on everything.  😄
 - 📫 How to reach me on Twitter https://twitter.com/mashablair 
 
